@@ -1,0 +1,32 @@
+---
+title: "Relational data"
+output: pdf_document
+---
+
+```{r}
+#| label = "setup",
+#| include = FALSE
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+#| label = "packages",
+#| message = FALSE
+library(tidyverse)
+library(rcis)
+library(knitr)
+```
+
+# Superheroes
+
+```{r}
+#| label = "superheroes"
+kable(superheroes)
+```
+
+# Publishers
+
+```{r}
+#| label = "publishers"
+kable(publishers)
+```

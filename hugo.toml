@@ -1,0 +1,4 @@
+baseURL = 'https://cfss-macss.github.io/course-site/'
+languageCode = 'en-us'
+title = 'Computing for the Social Sciences'
+theme = 'hugo-theme-learn'
