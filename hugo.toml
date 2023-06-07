@@ -1,4 +1,4 @@
-baseURL = 'https://cfss-macss.github.io/course-site/'
+baseURL = 'macs30500.netlify.app/'
 languageCode = 'en-us'
 title = 'Computing for the Social Sciences'
 theme = 'hugo-theme-learn'
